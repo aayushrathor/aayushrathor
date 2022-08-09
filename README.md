@@ -7,14 +7,12 @@
 
 <br>
 
-<p>
 - 🌱 DevOps Learner <br>
 - 💻 Linux enthusiast <br>
 - 🏫 CS/IT Student from IIIT Bhopal [2025] <br>
 - :email: rathoreaayush84@gmail.com <br>
 - :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/aayushrathore/">LinkedIn Profile</a> <br>
 - :bird: Twitter:  <a href="https://twitter.com/raayush871/">Twitter</a> <br>
-</p>
 
 <br>
 
