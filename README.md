@@ -1,4 +1,4 @@
-#### $whoami
+### $whoami
 
 <h1 align="center" > Hi 👋, I'm Aayush Rathore </h1>
 <h3 align="center" > Student at IIIT Bhopal 😶‍🌫️. </h3>
@@ -18,9 +18,9 @@
 
 <br>
 
-<!-- <p>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aayushrathor&repo=dotfiles&theme=gruvbox)](https://github.com/aayushrathor/dotfiles)
-</p> -->
+<p>
+    <img alt="dotfiles box" src="https://github-readme-stats.vercel.app/api/pin/?username=aayushrathor&repo=dotfiles&theme=gruvbox" />
+</p>
 
 <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=aayushrathor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
